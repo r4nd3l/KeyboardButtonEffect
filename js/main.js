@@ -26,7 +26,7 @@ window.onclick = function(event) {
 }
 
 
-// control the snake
+// control settings
 document.addEventListener("keydown", button_down);
 document.addEventListener("keyup", button_up);
 
